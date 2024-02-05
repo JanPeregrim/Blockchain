@@ -5,8 +5,7 @@ The Peer-to-Peer Blockchain Network project consists of four main Python scripts
 
 The structure of the project is as follows:
 
-markdown
-Copy code
+```
 project-root/
 │
 ├── PTP.py
@@ -19,6 +18,8 @@ project-root/
     ├── node2_chain.json
     ├── node3_chain.json
     └── node4_chain.json
+```
+
 
 
 ## Usability
@@ -45,9 +46,9 @@ The blockchain technology used in the project ensures data integrity and securit
 ## Use Cases
 The project has various potential use cases across different industries and domains, including:
 
-Supply Chain Management: Tracking the provenance and movement of goods across the supply chain.
-Financial Services: Facilitating secure and transparent transactions in banking and finance.
-Healthcare: Managing electronic health records and ensuring patient data privacy.
-Voting Systems: Implementing secure and verifiable voting systems for elections.
-IoT Networks: Securing and managing connected devices in the Internet of Things (IoT).
-Overall, the Peer-to-Peer Blockchain Network project offers a versatile and robust platform for building decentralized applications and solving real-world problems using blockchain technology.
+- Supply Chain Management: Tracking the provenance and movement of goods across the supply chain.
+- Financial Services: Facilitating secure and transparent transactions in banking and finance.
+- Healthcare: Managing electronic health records and ensuring patient data privacy.
+- Voting Systems: Implementing secure and verifiable voting systems for elections.
+- IoT Networks: Securing and managing connected devices in the Internet of Things (IoT).
+- Overall, the Peer-to-Peer Blockchain Network project offers a versatile and robust platform for building decentralized applications and solving real-world problems using blockchain technology.
